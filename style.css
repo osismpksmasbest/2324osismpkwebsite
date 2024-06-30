@@ -18,6 +18,12 @@ section {
   color: #81c241;
 }
 
+#navbarNav:hover {
+    color: white
+    }
+
+
+
 .lead {
   width: auto;
   font-size: 15px;
