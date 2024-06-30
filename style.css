@@ -14,12 +14,31 @@ section {
 
 .jumbotron {
   padding-top: 7rem;
-  background-color: #f4faff;
+  background-color: #ffffff;
   color: #81c241;
-}
+  background-image: url('./Bahan/Jumbotron/alaz-back.png');
+  background-size: cover; 
+  background-position: center; 
+  background-repeat: no-repeat;
+    height: 665px
+    }
 
-#navbarNav:hover {
-    color: white
+#about {
+    color: #81c241; 
+    margin-top: 50px;
+    margin-bottom: 100px
+    }
+
+#fotopetinggi {
+    margin-top: -150px;
+    }
+
+
+
+@media (max-width: 991px) {
+    .logoimg {
+        width: 70px
+        }
     }
 
 
